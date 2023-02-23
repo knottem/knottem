@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knottem
-- 👀 I’m interested in learn about coding
+- 👀 I’m interested to learn more about coding
 - 🌱 I’m currently learning JAVA and Kotlin
 
 <!---
