@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knottem
 - 👀 I’m interested in learn about coding
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA and Kotlin
 
 <!---
 knottem/knottem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
